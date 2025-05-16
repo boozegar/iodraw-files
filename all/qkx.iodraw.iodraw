@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dEsvU0mZZ56_mh996nNe-1" value="&lt;font face=&quot;宋体&quot;&gt;What&lt;br&gt;是什么&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="120" width="120" height="80" as="geometry" />
+          <mxGeometry x="60" y="100" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
