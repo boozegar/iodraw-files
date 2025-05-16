@@ -94,7 +94,22 @@
           <mxGeometry x="105" y="750" width="230" height="210" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-48" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;杉杉集团的案例给我们带来什么启示，家族企业债务违约风险该如何防范？&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="495" y="690" width="335" height="30" as="geometry" />
+          <mxGeometry x="495" y="690" width="505" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dEsvU0mZZ56_mh996nNe-49" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;企业流动性风险加剧&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="130" y="770" width="30" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="dEsvU0mZZ56_mh996nNe-50" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;债权人利益受损&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="185" y="770" width="30" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="dEsvU0mZZ56_mh996nNe-51" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;资本市场信任崩塌&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="245" y="770" width="30" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="dEsvU0mZZ56_mh996nNe-52" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;杉杉集团与其子公司实施债务重组&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="305" y="770" width="30" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="dEsvU0mZZ56_mh996nNe-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="760" width="230" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
