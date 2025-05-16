@@ -84,6 +84,9 @@
         <mxCell id="dEsvU0mZZ56_mh996nNe-44" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;债权人利益受损&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="140" y="760" width="30" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="dEsvU0mZZ56_mh996nNe-45" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;债权人利益受损&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="280" y="840" width="30" height="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
