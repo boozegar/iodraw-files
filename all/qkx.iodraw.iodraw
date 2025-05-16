@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dEsvU0mZZ56_mh996nNe-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="750" width="230" height="210" as="geometry" />
+        </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-1" value="&lt;font face=&quot;宋体&quot;&gt;What&lt;br&gt;是什么&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="110" width="120" height="80" as="geometry" />
         </mxCell>
@@ -107,9 +110,6 @@
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-52" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;杉杉集团与其子公司实施债务重组&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="735" y="760" width="30" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="545" y="750" width="230" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
