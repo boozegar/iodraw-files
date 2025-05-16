@@ -106,10 +106,7 @@
           <mxGeometry x="615" y="760" width="30" height="250" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-51" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;合理配置资本结构，加强风险管理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="675" y="760" width="30" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-52" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;杉杉集团与其子公司实施债务重组&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="735" y="760" width="30" height="190" as="geometry" />
+          <mxGeometry x="675" y="760" width="30" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
