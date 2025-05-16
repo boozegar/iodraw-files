@@ -81,6 +81,9 @@
         <mxCell id="dEsvU0mZZ56_mh996nNe-43" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;企业流动性风险加剧&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="85" y="760" width="30" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="dEsvU0mZZ56_mh996nNe-44" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;企业流动性风险加剧&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="140" y="760" width="30" height="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
