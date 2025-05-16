@@ -97,19 +97,19 @@
           <mxGeometry x="495" y="690" width="505" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-49" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;企业流动性风险加剧&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="130" y="770" width="30" height="190" as="geometry" />
+          <mxGeometry x="560" y="760" width="30" height="190" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-50" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;债权人利益受损&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="185" y="770" width="30" height="190" as="geometry" />
+          <mxGeometry x="615" y="760" width="30" height="190" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-51" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;资本市场信任崩塌&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="245" y="770" width="30" height="190" as="geometry" />
+          <mxGeometry x="675" y="760" width="30" height="190" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-52" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;杉杉集团与其子公司实施债务重组&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="305" y="770" width="30" height="190" as="geometry" />
+          <mxGeometry x="735" y="760" width="30" height="190" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="760" width="230" height="210" as="geometry" />
+          <mxGeometry x="545" y="750" width="230" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
