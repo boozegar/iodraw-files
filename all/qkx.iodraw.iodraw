@@ -28,8 +28,8 @@
         <mxCell id="dEsvU0mZZ56_mh996nNe-9" value="内部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-22" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;高杠杆经营，债务结构失衡&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="400" y="380" width="60" height="70" as="geometry" />
+        <mxCell id="dEsvU0mZZ56_mh996nNe-22" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;高杠杆经营，债务结构失衡&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="270" width="80" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
