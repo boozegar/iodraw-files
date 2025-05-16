@@ -26,7 +26,10 @@
           <mxGeometry x="570" y="120" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-9" value="内部动因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dEsvU0mZZ56_mh996nNe-10" value="内部动因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="200" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
