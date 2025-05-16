@@ -13,8 +13,8 @@
         <mxCell id="dEsvU0mZZ56_mh996nNe-3" value="&lt;font face=&quot;宋体&quot;&gt;How&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;怎么做&lt;/font&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-4" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="120" width="60" height="30" as="geometry" />
+        <mxCell id="dEsvU0mZZ56_mh996nNe-4" value="&lt;b&gt;？&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="130" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
