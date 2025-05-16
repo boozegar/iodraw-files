@@ -29,7 +29,7 @@
           <mxGeometry x="470" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-22" value="高杠杆经营，债务结构失衡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="290" width="40" height="60" as="geometry" />
+          <mxGeometry x="400" y="290" width="30" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
