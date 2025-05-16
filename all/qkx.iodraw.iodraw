@@ -31,9 +31,6 @@
         <mxCell id="dEsvU0mZZ56_mh996nNe-10" value="外部动因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.701;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dEsvU0mZZ56_mh996nNe-8" target="dEsvU0mZZ56_mh996nNe-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
