@@ -25,7 +25,7 @@
         <mxCell id="dEsvU0mZZ56_mh996nNe-8" value="债务违约的成因" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="570" y="120" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-9" value="内部动因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-9" value="内部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="200" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
