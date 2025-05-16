@@ -25,6 +25,9 @@
         <mxCell id="dEsvU0mZZ56_mh996nNe-8" value="债务违约的成因" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="570" y="120" width="150" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dEsvU0mZZ56_mh996nNe-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dEsvU0mZZ56_mh996nNe-9" target="dEsvU0mZZ56_mh996nNe-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-9" value="内部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="200" width="120" height="40" as="geometry" />
         </mxCell>
@@ -41,6 +44,9 @@
           <mxGeometry x="700" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.603;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dEsvU0mZZ56_mh996nNe-8" target="dEsvU0mZZ56_mh996nNe-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dEsvU0mZZ56_mh996nNe-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dEsvU0mZZ56_mh996nNe-8" target="dEsvU0mZZ56_mh996nNe-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
