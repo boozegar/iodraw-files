@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dEsvU0mZZ56_mh996nNe-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="672.5" y="750" width="175" height="270" as="geometry" />
+          <mxGeometry x="547.5" y="740" width="175" height="270" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-1" value="&lt;font face=&quot;宋体&quot;&gt;What&lt;br&gt;是什么&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="110" width="120" height="80" as="geometry" />
@@ -97,22 +97,22 @@
           <mxGeometry x="105" y="750" width="230" height="210" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-48" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;杉杉集团的案例给我们带来什么启示&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;家族企业债务违约风险该如何防范？&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="495" y="690" width="505" height="30" as="geometry" />
+          <mxGeometry x="370" y="680" width="505" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-49" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;企业经营需聚焦核心领域，避免无序扩张&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="687.5" y="760" width="30" height="250" as="geometry" />
+          <mxGeometry x="562.5" y="750" width="30" height="250" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-50" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;不断完善家族企业的公司治理结构&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="742.5" y="760" width="30" height="250" as="geometry" />
+          <mxGeometry x="617.5" y="750" width="30" height="250" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-51" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;合理配置资本结构，加强风险管理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="797.5" y="760" width="30" height="250" as="geometry" />
+          <mxGeometry x="672.5" y="750" width="30" height="250" as="geometry" />
         </mxCell>
         <mxCell id="uM7k_3G7HWnUV3579P-a-1" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;" vertex="1" parent="1">
           <mxGeometry x="1620" y="580" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="uM7k_3G7HWnUV3579P-a-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=80;" vertex="1" parent="1">
-          <mxGeometry x="980" y="230" width="100" height="100" as="geometry" />
+        <mxCell id="uM7k_3G7HWnUV3579P-a-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=80;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="920" y="390" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
