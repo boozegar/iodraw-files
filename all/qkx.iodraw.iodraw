@@ -126,6 +126,9 @@
         <mxCell id="uM7k_3G7HWnUV3579P-a-9" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;杉杉债务风险在集团内部是如何传递的&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1000" y="600" width="280" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="uM7k_3G7HWnUV3579P-a-10" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=80;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="410" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
