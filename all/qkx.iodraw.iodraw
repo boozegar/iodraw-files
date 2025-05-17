@@ -1,111 +1,111 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="ejnPWKC9R8gCQD7AZZq2">
-    <mxGraphModel dx="447" dy="246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="1049" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dEsvU0mZZ56_mh996nNe-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="672.5" y="750" width="175" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-1" value="&lt;font face=&quot;宋体&quot;&gt;What&lt;br&gt;是什么&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-1" value="&lt;font face=&quot;宋体&quot;&gt;What&lt;br&gt;是什么&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="110" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-2" value="&lt;font face=&quot;宋体&quot;&gt;Why&lt;br&gt;为什么&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-2" value="&lt;font face=&quot;宋体&quot;&gt;Why&lt;br&gt;为什么&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="110" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-3" value="&lt;font face=&quot;宋体&quot;&gt;How&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;怎么做&lt;/font&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-3" value="&lt;font face=&quot;宋体&quot;&gt;How&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;怎么做&lt;/font&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjIwMCIgd2lkdGg9IjIwMCIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiBjbGFzcz0iaWNvbiI+PHBhdGggZmlsbD0iIzAwMDAwMCIgZD0iTTUwMC4zODIgMC4wMDZjLTE3Ny42NDYgMTkuNzE5LTI3Ni4zNDEgOTYuNzIxLTI5Ni4wODUgMjMwLjkzLTMuOTQ5IDQzLjQzNyAxNy43NTcgNjcuMTMgNjUuMTQzIDcxLjA2NiAyMy42NjcgMy45NjEgNDMuNDExLTEzLjgwOCA1OS4yMDctNTMuMjk2IDIzLjY5Mi04Mi45IDgwLjg2Mi0xMjQuMzUgMTcxLjczNS0xMjQuMzUgMTEwLjQ3OSA3Ljg4NSAxNjkuNjk4IDYzLjE1NiAxNzcuNjcxIDE2NS44IDAgOTQuNzU5LTY0LjMxMyAxMTAuMjAyLTk5LjI0OCAxMzguNzc0LTQ0LjI2NyAzNi4yMTgtNzMuMjE3IDcyLjk1Mi0xMDguNjU1IDEzNS4yMTYtMjkuNzc5IDUyLjMxNC0zNC45MSAxNjQuMjI3LTM0LjkxIDE2NC4yMjcgMCA0Ny4zNzMgMjEuNjU1IDcxLjA2NiA2NS4xNDMgNzEuMDY2IDM5LjQxMyAwIDYxLjE5NC0yMy42OTMgNjUuMTU1LTcxLjA2NiAwIDAgNS4yMTktMTI1LjU5NCA1NS45MjUtMTgxLjEyOSA1Ny40NzItNjIuOTQyIDE5NC43NDktMTA3LjA3MSAxOTguNjk4LTI2OC45MjJDODA0LjM2NSAxMDguNTYxIDY5Ny43NzIgMTUuNzg5IDUwMC4zODIgMC4wMDZ6TTUwMC4zODIgODU5LjE2MmMtNDUuNTI0IDAtODIuNDA5IDM2LjkxLTgyLjQwOSA4Mi40MSAwIDQ1LjUyMyAzNi44ODUgODIuNDIyIDgyLjQwOSA4Mi40MjJzODIuNDIyLTM2Ljg5OCA4Mi40MjItODIuNDIyYzAtNDUuNS0zNi44OTgtODIuNDEtODIuNDIyLTgyLjQxeiIvPjwvc3ZnPg==;" vertex="1" parent="1">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjIwMCIgd2lkdGg9IjIwMCIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiBjbGFzcz0iaWNvbiI+PHBhdGggZmlsbD0iIzAwMDAwMCIgZD0iTTUwMC4zODIgMC4wMDZjLTE3Ny42NDYgMTkuNzE5LTI3Ni4zNDEgOTYuNzIxLTI5Ni4wODUgMjMwLjkzLTMuOTQ5IDQzLjQzNyAxNy43NTcgNjcuMTMgNjUuMTQzIDcxLjA2NiAyMy42NjcgMy45NjEgNDMuNDExLTEzLjgwOCA1OS4yMDctNTMuMjk2IDIzLjY5Mi04Mi45IDgwLjg2Mi0xMjQuMzUgMTcxLjczNS0xMjQuMzUgMTEwLjQ3OSA3Ljg4NSAxNjkuNjk4IDYzLjE1NiAxNzcuNjcxIDE2NS44IDAgOTQuNzU5LTY0LjMxMyAxMTAuMjAyLTk5LjI0OCAxMzguNzc0LTQ0LjI2NyAzNi4yMTgtNzMuMjE3IDcyLjk1Mi0xMDguNjU1IDEzNS4yMTYtMjkuNzc5IDUyLjMxNC0zNC45MSAxNjQuMjI3LTM0LjkxIDE2NC4yMjcgMCA0Ny4zNzMgMjEuNjU1IDcxLjA2NiA2NS4xNDMgNzEuMDY2IDM5LjQxMyAwIDYxLjE5NC0yMy42OTMgNjUuMTU1LTcxLjA2NiAwIDAgNS4yMTktMTI1LjU5NCA1NS45MjUtMTgxLjEyOSA1Ny40NzItNjIuOTQyIDE5NC43NDktMTA3LjA3MSAxOTguNjk4LTI2OC45MjJDODA0LjM2NSAxMDguNTYxIDY5Ny43NzIgMTUuNzg5IDUwMC4zODIgMC4wMDZ6TTUwMC4zODIgODU5LjE2MmMtNDUuNTI0IDAtODIuNDA5IDM2LjkxLTgyLjQwOSA4Mi40MSAwIDQ1LjUyMyAzNi44ODUgODIuNDIyIDgyLjQwOSA4Mi40MjJzODIuNDIyLTM2Ljg5OCA4Mi40MjItODIuNDIyYzAtNDUuNS0zNi44OTgtODIuNDEtODIuNDIyLTgyLjQxeiIvPjwvc3ZnPg==;" parent="1" vertex="1">
           <mxGeometry x="162.5" y="122.5" width="55" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dEsvU0mZZ56_mh996nNe-6" target="dEsvU0mZZ56_mh996nNe-7">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dEsvU0mZZ56_mh996nNe-6" target="dEsvU0mZZ56_mh996nNe-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-6" value="基础知识" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-6" value="基础知识" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="420" y="30" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-7" value="债务违约的内涵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-7" value="债务违约的内涵" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="585" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-8" value="债务违约的成因" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-8" value="债务违约的成因" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="570" y="130" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dEsvU0mZZ56_mh996nNe-9" target="dEsvU0mZZ56_mh996nNe-24">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dEsvU0mZZ56_mh996nNe-9" target="dEsvU0mZZ56_mh996nNe-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-9" value="内部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-9" value="内部" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="210" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-22" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;高杠杆经营，债务结构失衡&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-22" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;高杠杆经营，债务结构失衡&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="445" y="340" width="30" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-24" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;企业多元化经营，缺乏协同效应&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-24" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;企业多元化经营，缺乏协同效应&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="515" y="340" width="30" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-25" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;家族企业治理结构缺陷&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-25" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;家族企业治理结构缺陷&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="585" y="340" width="30" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dEsvU0mZZ56_mh996nNe-26" target="dEsvU0mZZ56_mh996nNe-35">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dEsvU0mZZ56_mh996nNe-26" target="dEsvU0mZZ56_mh996nNe-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-26" value="外部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-26" value="外部" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="210" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.603;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dEsvU0mZZ56_mh996nNe-8" target="dEsvU0mZZ56_mh996nNe-9">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.603;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="dEsvU0mZZ56_mh996nNe-8" target="dEsvU0mZZ56_mh996nNe-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dEsvU0mZZ56_mh996nNe-8" target="dEsvU0mZZ56_mh996nNe-26">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dEsvU0mZZ56_mh996nNe-8" target="dEsvU0mZZ56_mh996nNe-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dEsvU0mZZ56_mh996nNe-9" target="dEsvU0mZZ56_mh996nNe-25">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dEsvU0mZZ56_mh996nNe-9" target="dEsvU0mZZ56_mh996nNe-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dEsvU0mZZ56_mh996nNe-9" target="dEsvU0mZZ56_mh996nNe-22">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dEsvU0mZZ56_mh996nNe-9" target="dEsvU0mZZ56_mh996nNe-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-35" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;经济环境下行的影响&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-35" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;经济环境下行的影响&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="700" y="340" width="30" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-36" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;行业竞争的影响&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-36" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;行业竞争的影响&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="770" y="340" width="30" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dEsvU0mZZ56_mh996nNe-26" target="dEsvU0mZZ56_mh996nNe-36">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dEsvU0mZZ56_mh996nNe-26" target="dEsvU0mZZ56_mh996nNe-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dEsvU0mZZ56_mh996nNe-7">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dEsvU0mZZ56_mh996nNe-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="645" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-42" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;mso-bidi-font-family:&lt;br/&gt;宋体;mso-bidi-language:AR&quot;&gt;&lt;b&gt;杉杉集团债务违约产生了哪些后果？&lt;/b&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-42" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;mso-bidi-font-family:&lt;br/&gt;宋体;mso-bidi-language:AR&quot;&gt;&lt;b&gt;杉杉集团债务违约产生了哪些后果？&lt;/b&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="690" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-43" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;企业流动性风险加剧&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-43" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;企业流动性风险加剧&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="120" y="760" width="30" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-44" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;债权人利益受损&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-44" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;债权人利益受损&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="175" y="760" width="30" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-45" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;资本市场信任崩塌&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-45" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;资本市场信任崩塌&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="235" y="760" width="30" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-46" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;杉杉集团与其子公司实施债务重组&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-46" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;杉杉集团与其子公司实施债务重组&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="295" y="760" width="30" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="105" y="750" width="230" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-48" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;杉杉集团的案例给我们带来什么启示，家族企业债务违约风险该如何防范？&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-48" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;杉杉集团的案例给我们带来什么启示，家族企业债务违约风险该如何防范？&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="495" y="690" width="505" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-49" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;企业经营需聚焦核心领域，避免无序扩张&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-49" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;企业经营需聚焦核心领域，避免无序扩张&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="687.5" y="760" width="30" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-50" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;不断完善家族企业的公司治理结构&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-50" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;不断完善家族企业的公司治理结构&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="742.5" y="760" width="30" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="dEsvU0mZZ56_mh996nNe-51" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;合理配置资本结构，加强风险管理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="dEsvU0mZZ56_mh996nNe-51" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;合理配置资本结构，加强风险管理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="797.5" y="760" width="30" height="250" as="geometry" />
         </mxCell>
       </root>
