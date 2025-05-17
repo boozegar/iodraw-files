@@ -8,49 +8,49 @@
           <mxGeometry x="547.5" y="740" width="175" height="270" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-1" value="&lt;font face=&quot;宋体&quot;&gt;What&lt;br&gt;是什么&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="110" width="120" height="80" as="geometry" />
+          <mxGeometry x="170" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-2" value="&lt;font face=&quot;宋体&quot;&gt;Why&lt;br&gt;为什么&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="110" width="120" height="80" as="geometry" />
+          <mxGeometry x="360" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-3" value="&lt;font face=&quot;宋体&quot;&gt;How&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;怎么做&lt;/font&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="200" width="120" height="80" as="geometry" />
+          <mxGeometry x="260" y="210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjIwMCIgd2lkdGg9IjIwMCIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiBjbGFzcz0iaWNvbiI+PHBhdGggZmlsbD0iIzAwMDAwMCIgZD0iTTUwMC4zODIgMC4wMDZjLTE3Ny42NDYgMTkuNzE5LTI3Ni4zNDEgOTYuNzIxLTI5Ni4wODUgMjMwLjkzLTMuOTQ5IDQzLjQzNyAxNy43NTcgNjcuMTMgNjUuMTQzIDcxLjA2NiAyMy42NjcgMy45NjEgNDMuNDExLTEzLjgwOCA1OS4yMDctNTMuMjk2IDIzLjY5Mi04Mi45IDgwLjg2Mi0xMjQuMzUgMTcxLjczNS0xMjQuMzUgMTEwLjQ3OSA3Ljg4NSAxNjkuNjk4IDYzLjE1NiAxNzcuNjcxIDE2NS44IDAgOTQuNzU5LTY0LjMxMyAxMTAuMjAyLTk5LjI0OCAxMzguNzc0LTQ0LjI2NyAzNi4yMTgtNzMuMjE3IDcyLjk1Mi0xMDguNjU1IDEzNS4yMTYtMjkuNzc5IDUyLjMxNC0zNC45MSAxNjQuMjI3LTM0LjkxIDE2NC4yMjcgMCA0Ny4zNzMgMjEuNjU1IDcxLjA2NiA2NS4xNDMgNzEuMDY2IDM5LjQxMyAwIDYxLjE5NC0yMy42OTMgNjUuMTU1LTcxLjA2NiAwIDAgNS4yMTktMTI1LjU5NCA1NS45MjUtMTgxLjEyOSA1Ny40NzItNjIuOTQyIDE5NC43NDktMTA3LjA3MSAxOTguNjk4LTI2OC45MjJDODA0LjM2NSAxMDguNTYxIDY5Ny43NzIgMTUuNzg5IDUwMC4zODIgMC4wMDZ6TTUwMC4zODIgODU5LjE2MmMtNDUuNTI0IDAtODIuNDA5IDM2LjkxLTgyLjQwOSA4Mi40MSAwIDQ1LjUyMyAzNi44ODUgODIuNDIyIDgyLjQwOSA4Mi40MjJzODIuNDIyLTM2Ljg5OCA4Mi40MjItODIuNDIyYzAtNDUuNS0zNi44OTgtODIuNDEtODIuNDIyLTgyLjQxeiIvPjwvc3ZnPg==;" parent="1" vertex="1">
-          <mxGeometry x="162.5" y="122.5" width="55" height="55" as="geometry" />
+          <mxGeometry x="292.5" y="132.5" width="55" height="55" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dEsvU0mZZ56_mh996nNe-6" target="dEsvU0mZZ56_mh996nNe-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-6" value="基础知识" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="420" y="30" width="100" height="60" as="geometry" />
+          <mxGeometry x="550" y="40" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-7" value="债务违约的内涵" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="585" y="40" width="120" height="40" as="geometry" />
+          <mxGeometry x="715" y="50" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-8" value="债务违约的成因" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="570" y="130" width="150" height="40" as="geometry" />
+          <mxGeometry x="700" y="140" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dEsvU0mZZ56_mh996nNe-9" target="dEsvU0mZZ56_mh996nNe-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-9" value="内部" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="210" width="120" height="40" as="geometry" />
+          <mxGeometry x="600" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-22" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;高杠杆经营，债务结构失衡&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="445" y="340" width="30" height="190" as="geometry" />
+          <mxGeometry x="575" y="350" width="30" height="190" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-24" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;企业多元化经营，缺乏协同效应&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="515" y="340" width="30" height="190" as="geometry" />
+          <mxGeometry x="645" y="350" width="30" height="190" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-25" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;家族企业治理结构缺陷&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="585" y="340" width="30" height="190" as="geometry" />
+          <mxGeometry x="715" y="350" width="30" height="190" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dEsvU0mZZ56_mh996nNe-26" target="dEsvU0mZZ56_mh996nNe-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-26" value="外部" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="210" width="120" height="40" as="geometry" />
+          <mxGeometry x="830" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.603;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="dEsvU0mZZ56_mh996nNe-8" target="dEsvU0mZZ56_mh996nNe-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -65,17 +65,17 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-35" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;经济环境下行的影响&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="700" y="340" width="30" height="190" as="geometry" />
+          <mxGeometry x="830" y="350" width="30" height="190" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-36" value="&lt;div style=&quot;line-height: 120%;&quot;&gt;行业竞争的影响&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;textDirection=vertical-lr;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="770" y="340" width="30" height="190" as="geometry" />
+          <mxGeometry x="900" y="350" width="30" height="190" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dEsvU0mZZ56_mh996nNe-26" target="dEsvU0mZZ56_mh996nNe-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dEsvU0mZZ56_mh996nNe-7" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="645" y="130" as="targetPoint" />
+            <mxPoint x="775" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dEsvU0mZZ56_mh996nNe-42" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;mso-bidi-font-family:&lt;br/&gt;宋体;mso-bidi-language:AR&quot;&gt;&lt;b&gt;杉杉集团债务违约产生了哪些后果？&lt;/b&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -109,7 +109,7 @@
           <mxGeometry x="672.5" y="750" width="30" height="250" as="geometry" />
         </mxCell>
         <mxCell id="uM7k_3G7HWnUV3579P-a-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=80;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="920" y="390" width="100" height="100" as="geometry" />
+          <mxGeometry x="1050" y="400" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uM7k_3G7HWnUV3579P-a-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=-135;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="375" y="805" width="100" height="100" as="geometry" />
@@ -118,7 +118,7 @@
           <mxGeometry x="900" y="651.81" width="480" height="358.19" as="geometry" />
         </mxCell>
         <mxCell id="uM7k_3G7HWnUV3579P-a-5" value="使用说明板书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
